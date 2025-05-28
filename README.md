@@ -3,6 +3,7 @@
 Data and scripts for the manuscript entitled "Effects of a nitrogen-fixing plant invader and resource subsidy on subarctic arthropod communities"
 
 Authors:
+
 Matthew A. McCary, Department of BioSciences, Rice University, Houston, TX 
 
 Emily Auerbach, Department of Integrative Biology, University of Wisconsin-Madison, Madison, WI
