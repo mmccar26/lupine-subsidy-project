@@ -1,0 +1,30 @@
+Metadata for manuscript entitled “Effects of a nitrogen-fixing plant invader and resource subsidy on subarctic arthropod communities.”
+
+Repository description:
+R scripts and data used to evaluate the interplay between subsidy addition and lupine invasion on subarctic arthropods in Iceland.
+
+Authors:
+Matthew A. McCary, Department of BioSciences, Rice University, Houston, TX
+Emily Auerbach, Department of Integrative Biology, University of Wisconsin-Madison, Madison, WI
+Jamieson C. Botsch, Department of Biology, Austin Peay State University, Clarksville, TN
+Amanda R. McCormick, Department of Land, Air and Water Resources, University of California, Davis, CA
+Joseph S. Phillips, Department of Biology, Creighton University, Omaha, NE
+Anthony Ives, Department of Integrative Biology, University of Wisconsin-Madison, Madison, WI
+
+File list: 
+Community_Analysis_final.pwk
+lupine_analysis_final.R
+lupine_pitfall.csv
+lupine_plant.csv
+lupine_soil_arthropods.csv
+pitfall_data_Primer.xlsx
+plant_data_Primer.xlsx
+
+File descriptions (alphabetical order):
+Community_Analysis_final.pwk:  The Primer script that performs the community composition analysis that is shown for ground-active arthropods in the main text.
+lupine_analysis_final.R:  The R script that analyzes the interplay between lupine invasion and subsidy treatment on arthropod and plant taxa.
+lupine_pitfall.csv:  The underlying pitfall arthropod data used to answer how ground-active and soil-dwelling arthropods respond to the invasion and subsidy treatment. Data were processed in R.
+lupine_plant.csv:  The pitfall plant data used to answer how the plants correlate with differences in the ground-active arthropod community. Data were processed in R.
+lupine_soil_arthropods.csv:  Data underlying the analysis of how the soil arthropods respond to lupine invasion and subsidy treatment. Data were processed in R.
+pitfall_data_Primer.xlsx:  Data underlying the analysis of how ground-active community composition responded to lupine invasion and subsidy treatment. Data were processed in Primer.
+plant_data_Primer.xlsx:  Data underlying the analysis of how the plant community responded to lupine invasion and subsidy treatment. Data were processed in Primer.
